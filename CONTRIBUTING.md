@@ -1,7 +1,9 @@
-## Autenticação SSH Obrigatória
+## Configuração SSH
+Para contribuir neste projeto, você **deve usar SSH** para clonar e fazer push no repositório. 
 
-Para contribuir neste repositório, você **deve usar o SSH** para realizar operações Git (clonar, fazer push, etc.). Siga os passos abaixo para configurar sua chave SSH:
-
+### Passos para configurar SSH:
 1. [Gerar uma nova chave SSH](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-2. [Adicionar a chave SSH à sua conta GitHub](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
-
+2. [Adicionar sua chave SSH ao GitHub](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
+3. Clonar o repositório via SSH:
+   ```bash
+   git clone git@github.com:usuario/repositorio.git
