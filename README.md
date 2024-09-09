@@ -100,7 +100,8 @@ Crie um commit com uma mensagem descritiva:
 ~~~
 git commit -m "Adicionei minha contribuição no README.md"
 ~~~
-🚨 Atenção: A branch main do repositório campinho está protegida. Alterações não podem ser enviadas diretamente para ela via push. Por favor, crie uma nova branch e submeta suas alterações através de um pull request.
+## 🚨 Atenção:
+A branch main do repositório campinho está protegida. Alterações não podem ser enviadas diretamente para ela via push. Por favor, crie uma nova branch e submeta suas alterações através de um pull request.
 ### 6. Enviando Suas Alterações para o Repositório Remoto
 Após fazer o commit, você precisa enviar suas alterações para o repositório remoto.
 
@@ -175,6 +176,9 @@ Resolva conflitos, se houver, e commit suas alterações.
 `git pull:` Para obter as alterações mais recentes do repositório remoto.
 
 `Pull Request (PR):` Para solicitar que suas alterações sejam mescladas à branch principal.
+
+## 💡 Dica: 
+Caso você esteja enfrentando erros ao tentar fazer push, pode ser que o seu repositório local não esteja sincronizado com o remoto. Tente executar git pull para atualizar seu repositório local antes de enviar suas alterações
 
 ##### Desafios Adicionais
 Resolução de Conflitos: Se dois ou mais contribuidores modificarem a mesma linha de código, um conflito ocorrerá. Pratique a resolução de conflitos quando fizer merge de branches.
