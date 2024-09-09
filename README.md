@@ -100,7 +100,7 @@ Crie um commit com uma mensagem descritiva:
 ~~~
 git commit -m "Adicionei minha contribuição no README.md"
 ~~~
-
+🚨 Atenção: A branch main do repositório campinho está protegida. Alterações não podem ser enviadas diretamente para ela via push. Por favor, crie uma nova branch e submeta suas alterações através de um pull request.
 ### 6. Enviando Suas Alterações para o Repositório Remoto
 Após fazer o commit, você precisa enviar suas alterações para o repositório remoto.
 
