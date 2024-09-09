@@ -141,13 +141,22 @@ Resolva conflitos, se houver, e commit suas alterações.
 
 #### Conceitos e Comandos Praticados
 `git clone:` Para clonar o repositório remoto para o ambiente local.
+
 `git branch:` Para criar e listar branches.
+
 `git checkout:` Para trocar de branch.
+
 `git add:` Para adicionar arquivos ao stage.
+
 `git commit:` Para criar um commit com uma mensagem descritiva.
+
 `git push:` Para enviar suas alterações para o repositório remoto.
+
 `git pull:` Para obter as alterações mais recentes do repositório remoto.
+
 `Pull Request (PR):` Para solicitar que suas alterações sejam mescladas à branch principal.
+
 ##### Desafios Adicionais
 Resolução de Conflitos: Se dois ou mais contribuidores modificarem a mesma linha de código, um conflito ocorrerá. Pratique a resolução de conflitos quando fizer merge de branches.
+
 Rebase: Experimente o comando git rebase para reordenar commits antes de fazer um merge.
