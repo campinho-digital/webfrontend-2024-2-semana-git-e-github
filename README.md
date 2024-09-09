@@ -2,12 +2,14 @@
 
  # Semana 2 Repositório Colaborativo
 ## Atividade: Colaboração no Git com Branches e Contribuições no README.md
+<img width="212" alt="Captura de Tela 2024-09-09 às 17 42 28" src="https://github.com/user-attachments/assets/ff68ffdf-1fc1-471a-baec-f4b6089081b6">
 
 ### Bem-vindo à Campinho Digital!
 
 Parabéns! Você foi contratado como desenvolvedor júnior na Campinho Digital. Agora é hora de iniciar suas contribuições no repositório da empresa. Seu primeiro passo será enviar um e-mail solicitando acesso ao repositório, depois clonar o projeto e realizar suas primeiras contribuições.
 
 Aqui estão as etapas detalhadas que você deve seguir para começar a contribuir com o repositório colaborativo da `Campinho Digital`, praticando conceitos como criação de `branches`, `commits`, `pull requests`, e `merge`.
+
 
 ## Objetivo
 Essa atividade tem como objetivo familiarizar os participantes com o fluxo de trabalho colaborativo no Git, utilizando comandos como git branch, git checkout, git merge, além de criar, editar e resolver conflitos em branches separadas. Os alunos irão aprender a contribuir em um repositório Git colaborativo, criar branches, realizar commits e enviar suas alterações para o repositório remoto.
