@@ -6,7 +6,7 @@
 
 ### Bem-vindo à Campinho Digital!
 
-Parabéns! Você foi contratado como desenvolvedor júnior na Campinho Digital. Agora é hora de iniciar suas contribuições no repositório da empresa. Seu primeiro passo será enviar um e-mail solicitando acesso ao repositório, depois clonar o projeto e realizar suas primeiras contribuições.
+Parabéns! Você foi contratado como desenvolvedor júnior na `Campinho Digital`. Agora é hora de iniciar suas contribuições no repositório da empresa. Seu primeiro passo será enviar um e-mail solicitando acesso ao repositório, depois clonar o projeto e realizar suas primeiras contribuições.
 
 Aqui estão as etapas detalhadas que você deve seguir para começar a contribuir com o repositório colaborativo da `Campinho Digital`, praticando conceitos como criação de `branches`, `commits`, `pull requests`, e `merge`.
 
@@ -19,7 +19,6 @@ O primeiro passo para começar a trabalhar com o repositório da empresa é soli
 Envie um e-mail para o administrador de projetos da `Campinho Digital`
 
 ## O que preciso saber para começar:
-
 Para contruibuir com o projeto `Campinho Digital`é importante conhecer o `markdown`
 
 ## O que é markdown?
@@ -54,7 +53,7 @@ Navegue até a pasta do repositório:
 
 
 ~~~
-cd webfrontend-2024-2-semana-1
+cd nome_do_repositorio
 ~~~
 
 ### 3. Criando e Trocando de Branches
@@ -83,8 +82,6 @@ Agora que você está em uma nova branch, pode fazer alterações no repositóri
 - crie um arquivo seu_nome.md no editor de sua escolha.
 
 - Adicione uma seção no final do arquivo com seu nome, e uma apresentação sobre você.
-
-
 
 ~~~
 Olá, somos a campinho digital... etc
