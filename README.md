@@ -80,13 +80,53 @@ Isso exibirá uma lista das branches locais. A branch no qual você está atualm
 ### 4. Fazendo Contribuições 
 Agora que você está em uma nova branch, pode fazer alterações no repositório.
 
-- crie um arquivo seu_nome.md no editor de sua escolha.
 
-- Adicione uma seção no final do arquivo com seu nome, e uma apresentação sobre você.
+#### Estrutura 
+~~~
+
+├── README.md
+└── squads
+    ├── squad1
+    │   └── seu_nome_sobrenome.md
+    ├── squad2
+    │   └── seu_nome_sobrenome.md
+    ├── squad3
+    │   └── seu_nome_sobrenome.md
+    ├── squad4
+    │   └── seu_nome_sobrenome.md
+    ├── squad5
+    │   └── seu_nome_sobrenome.md
+    └── squad6
+        └── seu_nome_sobrenome.md
+~~~
+
+
+#### Nomeação dos Arquivos:
+
+- Cada colaborador deve criar um arquivo dentro da pasta correspondente ao squad a que pertence.
+- O nome do arquivo deve seguir o padrão nome_sobrenome.md, onde seu primeiro nome e sobrenome são separados por underline (_).
+  
+Exemplo: Se o seu nome for João Silva, o nome do arquivo será joao_silva.md.
+
+#### Localização do Arquivo:
+Cada arquivo de documentação individual deve estar localizado na pasta do squad correto. Por exemplo:
+Se você faz parte do Squad 3, o seu arquivo nome_sobrenome.md deve estar dentro da pasta squad3.
+
+Estrutura correta para João Silva no Squad 3:
 
 ~~~
-Olá, somos a campinho digital... etc
+squads
+├── squad3
+    └── joao_silva.md
+
 ~~~
+### Conteúdo do Arquivo:
+O arquivo nome_sobrenome.md deve conter as seguintes informações mínimas (Em Markdown):
+
+- Objetivo: Descreva suas responsabilidades e contribuições dentro do squad (Podem ser atruibuições fictícias).
+- Responsabilidades: Liste as principais tarefas ou áreas que você está encarregado(a).
+- Contato: Inclua uma forma de contato, como e-mail ou outro canal interno da empresa, para facilitar a comunicação.
+- Você pode adicionar mais seções relevantes conforme necessário.
 
 ### 5. Commitando as Alterações
 Agora que você fez uma alteração, vamos salvar (commitar) essa mudança no Git.
