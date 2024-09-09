@@ -99,11 +99,15 @@ git push origin minha-contribuicao
 Isso enviará as alterações para o repositório remoto na sua branch criada.
 
 7. Criando um Pull Request
+   
 Depois de enviar suas alterações para o GitHub, é hora de criar um Pull Request (PR). Esse é o processo de solicitar que suas alterações sejam mescladas na branch principal (main ou master).
 
 Acesse o repositório no GitHub.
-Você verá um botão para criar um novo Pull Request com base na branch que você enviou (minha-contribuicao).
+
+Você verá um botão para criar um novo `Pull Request` com base na branch que você enviou (minha-contribuicao).
+
 Preencha o título e a descrição da PR, explicando as alterações que você fez.
+
 Envie a PR para revisão.
 8. Revisando e Aceitando Pull Requests
 Se for o proprietário do repositório ou tiver permissões de revisão, siga os seguintes passos:
@@ -112,7 +116,9 @@ Acesse a lista de Pull Requests.
 Revise as mudanças propostas pelos colaboradores.
 Se as mudanças estiverem adequadas, faça o merge para incorporar as alterações na branch principal.
 Caso seja necessário, comente sobre melhorias ou faça alterações antes de aceitar.
+
 9. Sincronizando Suas Alterações Locais com o Repositório Remoto
+    
 Se outros colaboradores fizeram mudanças na branch principal enquanto você trabalhava na sua branch, é importante garantir que sua cópia local esteja atualizada. Para isso, siga os passos abaixo:
 
 Troque para a branch principal:
