@@ -16,7 +16,8 @@ Essa atividade tem como objetivo familiarizar os participantes com o fluxo de tr
 
 ## O que fazer primeiro?
 O primeiro passo para começar a trabalhar com o repositório da empresa é solicitar o acesso.
-[Link para solicitar](https://forms.gle/KGFpYJ3GTyGQYGSF7)
+
+🔗 [Link para solicitar](https://forms.gle/KGFpYJ3GTyGQYGSF7)
 
 ## O que preciso saber para começar:
 Para contruibuir com o projeto `Campinho Digital`é importante conhecer o `markdown`
