@@ -1,227 +1,47 @@
+## Olá! Seja bem vindo ao meu GitHub 
+Entusiasta em Tecnologia na área de suporte em TI, migrando para programação e Cloud💭
+
+"Sou Jeferson, casado, papai do Ryan, evangélico, instrutor e músico de clarinete e clarone."
+Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como analista de Suporte. Hoje com algumas bagdes “distintivo” na Credly e Microsoft, em destaque AWS Cloud Practitioner.
+
+## Veja meu CV
+<div> 
+  <a href = "https://github.com/JeStrefezza/jestrefezza/blob/main/CV%20Jeferson%20Strefezza%20Mello.pdf"><img align="center" alt="Microsof" height="50" width="50"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHTyDm05_UhlOt0H6HaqsmLnnPTf6oI_wggBZCD63JYumEZAlsmF-fxVowQKtSAbtuHQ&usqp=CAU">
+</div>
+
+## Info
+- 💫 Em transição de carreira de Suporte em TI para Cloud e ServiceNow
+- 🌱 Estudando atualmente Cloud, Python, HTML, CSS e ServiceNow
+- 💻 Cloud, DevOps, ServiceNow
+- Veja meus badges "distintivos" 
+<div> 
+ <a href = "https://learn.microsoft.com/pt-br/users/jestrefezza"><img align="center" alt="Microsof" height="50" width="100"  src="https://t2.tudocdn.net/514858?w=646&h=284">
+ <a href = "https://www.credly.com/users/jestrefezza"><img align="center" alt="Credly" height="50" width="100" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg">  
+ <a href = "https://nowlearning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=jestrefezza"><img align="center" alt="Microsof" height="50" width="100"  src="https://www.globalsign.com/application/files/2216/7931/7447/ServiceNow_logo_RGB_White_YoumojiGreen.png">
+</div>
+     
+## Contato
+<div> 
+ <a href = "https://wa.me/5511983207887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+ <a href="https://www.linkedin.com/in/jestrefezza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:je_info@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
+ <a href = "mailto:jefestrezza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
+
+## Linguagens e Ferramentas
+<div>
+ <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="aws" width="50" height="50"/> 
+ <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+</div>
+
+## Certificações
+<div>
+ <a href="https://www.credly.com/badges/163145e0-a46b-4a85-9aa6-cc11fbb43ffd" rel="noreferrer"><img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  <a href="https://verify.skilljar.com/c/znop6pe6pnbs" rel="noreferrer"><img align="center" alt="FinOps" height="100" width="100" src="https://raw.githubusercontent.com/JeStrefezza/jestrefezza/main/Badge%20FinOps.png">
+  <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/micro-certification-welcome-to-servicenow?id=learning_course_prev&course_id=938eb5358724d91cd3be437e0ebb3597" target="_blank" rel="noreferrer"><img align="center" alt="Welcome ServiceNow" height="100" width="80" target="_blank" src="https://nowlearning.servicenow.com/Credential%20Badge%20-%20Micro-Cert-%20Certified%20Welcome%20to%20ServiceNow.png">
+ <a href="https://www.credly.com/badges/7c87d453-2d5f-46d4-8aec-b00b6d40cac1" rel="noreferrer"><img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">
+ </div>
 
 
- # Semana 2 Repositório Colaborativo
-## Atividade: Colaboração no Git com Branches e Contribuições no README.md
-<img width="212" alt="Captura de Tela 2024-09-09 às 17 42 28" src="https://github.com/user-attachments/assets/ff68ffdf-1fc1-471a-baec-f4b6089081b6">
-
-### Bem-vindo à Campinho Digital!
-
-Parabéns! Você foi contratado como desenvolvedor júnior na `Campinho Digital`. Agora é hora de iniciar suas contribuições no repositório da empresa. Seu primeiro passo será enviar um e-mail solicitando acesso ao repositório, depois clonar o projeto e realizar suas primeiras contribuições.
-
-Aqui estão as etapas detalhadas que você deve seguir para começar a contribuir com o repositório colaborativo da `Campinho Digital`, praticando conceitos como criação de `branches`, `commits`, `pull requests`, e `merge`.
-
-
-## Objetivo
-Essa atividade tem como objetivo familiarizar os participantes com o fluxo de trabalho colaborativo no Git, utilizando comandos como git branch, git checkout, git merge, além de criar, editar e resolver conflitos em branches separadas. Os alunos irão aprender a contribuir em um repositório Git colaborativo, criar branches, realizar commits e enviar suas alterações para o repositório remoto.
-
-## O que fazer primeiro?
-O primeiro passo para começar a trabalhar com o repositório da empresa é solicitar o acesso.
-
-🔗 [Link para solicitar](https://forms.gle/KGFpYJ3GTyGQYGSF7)
-
-## O que preciso saber para começar:
-Para contruibuir com o projeto `Campinho Digital`é importante conhecer o `markdown`
-
-## O que é markdown?
-Markdown é uma linguagem de marcação leve que permite que você escreva conteúdo formatado de maneira simples e intuitiva. Você pode escrever cabeçalhos, listas, links e muito mais de forma rápida, e o resultado pode ser convertido em HTML ou outros formatos.
-
-### Características principais do Markdown:
-
-Simplicidade: Fácil de ler e escrever.
-Formato Texto Plano: Arquivos .md podem ser editados em qualquer editor de texto.
-Conversão Simples: Convertido facilmente para HTML ou PDF.
-Você pode consultar este guia para aprender mais sobre Markdown.
-
-## Descrição da Atividade
-### 1. Preparação do Ambiente
-Pré-requisito: Tenha o Git instalado no seu computador.
-Editor sugerido: Recomendo o uso do VSCode para edição de código e execução de comandos Git, ou o terminal, caso prefira.
-### 2. Clonando o Repositório
-O repositório onde vocês irão colaborar está disponível no GitHub. Primeiro, você deve clonar esse repositório no seu ambiente local.
-
-Acesse o repositório no GitHub.
-
-`Copie o link SSH`
-
-No terminal, rode o comando abaixo para clonar o repositório:
-
-
-~~~javascript
-git clone <URL_DO_REPOSITORIO>
-~~~
-
-Navegue até a pasta do repositório:
-
-
-~~~
-cd nome_do_repositorio
-~~~
-
-### 3. Criando e Trocando de Branches
-Para garantir um fluxo de trabalho colaborativo eficiente, cada participante deve criar sua própria branch para adicionar contribuições. Isso evita conflitos diretos no branch principal (geralmente chamado de main ou master).
-
-Criar um novo branch para sua contribuição:
-
-Escolha um nome descritivo para sua branch, como minha-contribuicao.
-
-
-~~~
-git checkout -b minha-contribuicao
-~~~
-
-Verifique em qual branch você está:
-
-~~~
-git branch
-~~~
-
-Isso exibirá uma lista das branches locais. A branch no qual você está atualmente será marcado com um *.
-
-### 4. Fazendo Contribuições 
-Agora que você está em uma nova branch, pode fazer alterações no repositório.
-
-
-#### Estrutura 
-~~~
-
-├── README.md
-└── squads
-    ├── squad1
-    │   └── seu_nome_sobrenome.md
-    ├── squad2
-    │   └── seu_nome_sobrenome.md
-    ├── squad3
-    │   └── seu_nome_sobrenome.md
-    ├── squad4
-    │   └── seu_nome_sobrenome.md
-    ├── squad5
-    │   └── seu_nome_sobrenome.md
-    └── squad6
-        └── seu_nome_sobrenome.md
-~~~
-
-
-#### Nomeação dos Arquivos:
-
-- Cada colaborador deve criar um arquivo dentro da pasta correspondente ao squad a que pertence.
-- O nome do arquivo deve seguir o padrão nome_sobrenome.md, onde seu primeiro nome e sobrenome são separados por underline (_).
-  
-Exemplo: Se o seu nome for João Silva, o nome do arquivo será joao_silva.md.
-
-#### Localização do Arquivo:
-Cada arquivo de documentação individual deve estar localizado na pasta do squad correto. Por exemplo:
-Se você faz parte do Squad 3, o seu arquivo nome_sobrenome.md deve estar dentro da pasta squad3.
-
-Estrutura correta para João Silva no Squad 3:
-
-~~~
-squads
-├── squad3
-    └── joao_silva.md
-
-~~~
-### Conteúdo do Arquivo:
-O arquivo nome_sobrenome.md deve conter as seguintes informações mínimas (Em Markdown):
-
-- Objetivo: Descreva suas responsabilidades e contribuições dentro do squad (Podem ser atruibuições fictícias).
-- Responsabilidades: Liste as principais tarefas ou áreas que você está encarregado(a).
-- Contato: Inclua uma forma de contato, como e-mail ou outro canal interno da empresa, para facilitar a comunicação.
-- Você pode adicionar mais seções relevantes conforme necessário.
-
-### 5. Commitando as Alterações
-Agora que você fez uma alteração, vamos salvar (commitar) essa mudança no Git.
-
-Adicione os arquivos modificados para o stage:
-~~~
-git add .
-~~~
-
-Crie um commit com uma mensagem descritiva:
-
-~~~
-git commit -m "Adicionei minha contribuição no README.md"
-~~~
-## 🚨 Atenção:
-A branch main do repositório campinho está protegida. Alterações não podem ser enviadas diretamente para ela via push. Por favor, crie uma nova branch e submeta suas alterações através de um pull request.
-### 6. Enviando Suas Alterações para o Repositório Remoto
-Após fazer o commit, você precisa enviar suas alterações para o repositório remoto.
-
-Empurre (push) suas alterações para o GitHub:
-
-~~~
-git push origin minha-contribuicao
-~~~
- 
-Isso enviará as alterações para o repositório remoto na sua branch criada.
-
-### 7. Criando um Pull Request
-   
-Depois de enviar suas alterações para o GitHub, é hora de criar um Pull Request (PR). Esse é o processo de solicitar que suas alterações sejam mescladas na branch principal (main ou master).
-
-Acesse o repositório no GitHub.
-
-Você verá um botão para criar um novo `Pull Request` com base na branch que você enviou (minha-contribuicao).
-
-Preencha o título e a descrição da PR, explicando as alterações que você fez.
-
-Envie a PR para revisão.
-### 8. Revisando e Aceitando Pull Requests
-Se for o proprietário do repositório ou tiver permissões de revisão, siga os seguintes passos:
-
-Acesse a lista de Pull Requests.
-Revise as mudanças propostas pelos colaboradores.
-Se as mudanças estiverem adequadas, faça o merge para incorporar as alterações na branch principal.
-Caso seja necessário, comente sobre melhorias ou faça alterações antes de aceitar.
-
-### 9. Sincronizando Suas Alterações Locais com o Repositório Remoto
-    
-Se outros colaboradores fizeram mudanças na branch principal enquanto você trabalhava na sua branch, é importante garantir que sua cópia local esteja atualizada. Para isso, siga os passos abaixo:
-
-Troque para a branch principal:
-
-~~~
-git checkout main
-~~~
-
-Puxe as mudanças mais recentes do repositório remoto:
-
-~~~
-git pull origin main
-~~~
-
-Mergir as alterações recentes na sua branch (caso necessário):
-
-
-~~~
-git checkout minha-contribuicao
-~~~
-
-~~~
-git merge main
-~~~
-Resolva conflitos, se houver, e commit suas alterações.
-
-#### Conceitos e Comandos Praticados
-`git clone:` Para clonar o repositório remoto para o ambiente local.
-
-`git branch:` Para criar e listar branches.
-
-`git checkout:` Para trocar de branch.
-
-`git add:` Para adicionar arquivos ao stage.
-
-`git commit:` Para criar um commit com uma mensagem descritiva.
-
-`git push:` Para enviar suas alterações para o repositório remoto.
-
-`git pull:` Para obter as alterações mais recentes do repositório remoto.
-
-`Pull Request (PR):` Para solicitar que suas alterações sejam mescladas à branch principal.
-
-## 💡 Dica: 
-Caso você esteja enfrentando erros ao tentar fazer push, pode ser que o seu repositório local não esteja sincronizado com o remoto. Tente executar git pull para atualizar seu repositório local antes de enviar suas alterações
-
-##### Desafios Adicionais
-Resolução de Conflitos: Se dois ou mais contribuidores modificarem a mesma linha de código, um conflito ocorrerá. Pratique a resolução de conflitos quando fizer merge de branches.
-
-Rebase: Experimente o comando git rebase para reordenar commits antes de fazer um merge.
