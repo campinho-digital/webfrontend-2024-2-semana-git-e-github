@@ -22,7 +22,3 @@ Essa atividade tem como objetivo familiarizar os participantes com o fluxo de tr
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-- Responsabilidades: Liste as principais tarefas ou áreas que você está encarregado(a).
-- Contato: Inclua uma forma de contato, como e-mail ou outro canal interno da empresa, para facilitar a comunicação.
-- Você pode adicionar mais seções relevantes conforme necessário.
