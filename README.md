@@ -224,4 +224,4 @@ Caso você esteja enfrentando erros ao tentar fazer push, pode ser que o seu rep
 ##### Desafios Adicionais
 Resolução de Conflitos: Se dois ou mais contribuidores modificarem a mesma linha de código, um conflito ocorrerá. Pratique a resolução de conflitos quando fizer merge de branches.
 
-Rebase: Experimente o comando git rebase para reordenar commits antes de fazer um merge.
+Rebase: Experimente o comando git rebase para reordenar commits antes de faz
