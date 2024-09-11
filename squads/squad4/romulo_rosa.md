@@ -1,12 +1,12 @@
-# **Projeto:** Minha Contribuição\
-### **Colaborador:** Romulo Guilherme Rosa\
-#### **Posições:** Front-End e VTex Pleno | FullStack Júnior\
+# **Projeto:** Minha Contribuição
+### **Colaborador:** Romulo Guilherme Rosa
+#### **Posições:** Front-End e VTex Pleno | FullStack Júnior
 #### **Contato:** [Github](https://github.com/romulorosadev)  |  [LinkedIn](https://www.linkedin.com/in/romulorosadev/)
 
 ---
 
-## **Perfil**\
-Desenvolvedor Front-End com mais de 10 anos de atuação junto ao segmento de E-Commerce.\
+## **Perfil**
+Desenvolvedor Front-End com mais de 10 anos de atuação junto ao segmento de E-Commerce.
 Vastos conhecimentos de Análise e Modelagem de Sistemas, UX/UI, Webdesign, SEO e Acessibilidade adquiridos durante minha jornada.\
 Especializado no desenvolvimento de Lojas E-Commerce nas Plataformas VTex IO e VTex CMS.\
 Possuo certificação VTex IO Developer Certified e Formação FullStack concluída no VTex Hiring Coders (2021/2022),\
@@ -15,7 +15,7 @@ Atualmente busco um ferramental mais versátil através do [Curso de Programaç�
 
 ---
 
-## **Objetivos**\
+## **Objetivos**
 Através da Formação Front-End do Campinho Digital busco:
 * Aprimorar e atualizar meus conhecimentos como desenvolvedor
 * Corrigir possíveis gaps criados ao longo dos anos de atuação
