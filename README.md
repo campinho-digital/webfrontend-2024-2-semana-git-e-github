@@ -97,7 +97,7 @@ Agora que você está em uma nova branch, pode fazer alterações no repositóri
     ├── squad5
     │   └── seu_nome_sobrenome.md
     └── squad6
-        └── seu_nome_sobrenome.md
+        └── jomilson_nascimento.md
 ~~~
 
 
