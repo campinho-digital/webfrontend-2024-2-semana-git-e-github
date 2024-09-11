@@ -1,13 +1,11 @@
-(https://drive.google.com/file/d/1Txk9SRsF06Emt9YOdy3n4m6NZ3woO-5e/view?usp=sharing)
-
-#**Projeto:** Minha Contribuição\
-###**Colaborador:** Romulo Guilherme Rosa\
-####**Posições:** Front-End e VTex Pleno | FullStack Júnior\
-####**Contato:** [Github](https://github.com/romulorosadev)  |  [LinkedIn](https://www.linkedin.com/in/romulorosadev/)
+# **Projeto:** Minha Contribuição\
+### **Colaborador:** Romulo Guilherme Rosa\
+#### **Posições:** Front-End e VTex Pleno | FullStack Júnior\
+#### **Contato:** [Github](https://github.com/romulorosadev)  |  [LinkedIn](https://www.linkedin.com/in/romulorosadev/)
 
 ---
 
-##**Perfil**\
+## **Perfil**\
 Desenvolvedor Front-End com mais de 10 anos de atuação junto ao segmento de E-Commerce.\
 Vastos conhecimentos de Análise e Modelagem de Sistemas, UX/UI, Webdesign, SEO e Acessibilidade adquiridos durante minha jornada.\
 Especializado no desenvolvimento de Lojas E-Commerce nas Plataformas VTex IO e VTex CMS.\
@@ -17,7 +15,7 @@ Atualmente busco um ferramental mais versátil através do [Curso de Programaç�
 
 ---
 
-##**Objetivos**\
+## **Objetivos**\
 Através da Formação Front-End do Campinho Digital busco:
 * Aprimorar e atualizar meus conhecimentos como desenvolvedor
 * Corrigir possíveis gaps criados ao longo dos anos de atuação
@@ -26,7 +24,7 @@ Através da Formação Front-End do Campinho Digital busco:
 
 ---
 
-##**Responsabilidades**
+## **Responsabilidades**
 * Implantação, desenvolvimento e manutenção Front-End de sistemas, apps, sites e landing pages
 * Desenvolvimento de Estrutura de Marcação HTML
 * Desenvolvimento de Estilização com CSS e seus frameworks
