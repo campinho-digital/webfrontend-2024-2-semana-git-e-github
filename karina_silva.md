@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SUSE&weight=200&size=25&duration=4982&pause=998&color=F722D2&background=9143E900&center=true&width=435&lines=Karina+Ferreira;Information+of+Tecnology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SUSE&size=30&pause=1000&color=F71FE0&background=BE4CFF00&vCenter=true&width=405&height=27&lines=Karina+Ferreira;Information+of+Security)](https://git.io/typing-svg)
 
-# <span style="color:#F722D2">Olá! Sou a Karina</span>
+## <span style="color:#F722D2">Olá! Sou a Karina</span>
 
 Atualmente, estou cursando Segurança da Informação e me dedicando à construção de soluções inovadoras em segurança cibernética.
 
@@ -13,10 +13,10 @@ Atualmente, estou cursando Segurança da Informação e me dedicando à constru�
 - [Sobre Mim](#sobre-mim)
 - [Formação Acadêmica](#formação-acadêmica)
 - [Habilidades](#habilidades)
-- [Projetos](#projetos)
 - [Contato](#contato)
 
 ## 🌟 <span style="color:#F722D2">Sobre Mim</span>
+
 
 Atualmente, estou cursando Segurança da Informação e me dedicando à construção de soluções inovadoras em segurança cibernética.
 
@@ -32,4 +32,8 @@ Atualmente, estou cursando Segurança da Informação e me dedicando à constru�
 
 ## 📧 <span style="color:#F722D2">Contato</span>
 
-- **E-mail**: karinafeliciano90@gmail.com
+## 📬 Bora fazer um networking?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-ferreira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinafeliciano90@gmail.com)
+
