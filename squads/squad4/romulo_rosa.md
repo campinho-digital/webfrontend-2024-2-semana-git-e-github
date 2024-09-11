@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png](https://drive.google.com/file/d/1Txk9SRsF06Emt9YOdy3n4m6NZ3woO-5e/view?usp=drive_link)
+
 # **Projeto:** Minha Contribuição
 ### **Colaborador:** Romulo Guilherme Rosa
 #### **Posições:** Front-End e VTex Pleno | FullStack Júnior
@@ -11,7 +13,7 @@ Vastos conhecimentos de Análise e Modelagem de Sistemas, UX/UI, Webdesign, SEO 
 Especializado no desenvolvimento de Lojas E-Commerce nas Plataformas VTex IO e VTex CMS.\
 Possuo certificação VTex IO Developer Certified e Formação FullStack concluída no VTex Hiring Coders (2021/2022),\
 Experiência de Implantações de projetos (3 Lojas VTex IO e 5 VTex CMS), Ongoing (5 Lojas VTex IO e 40 VTex CMS) de novas tasks e correções de bugs.\
-Atualmente busco um ferramental mais versátil através do [Curso de Programação Web Front-End](https://www.campinhodigital.org/programa%C3%A7%C3%A3o-web-front-end) da [Campinho Digital](https://www.campinhodigital.org/) e Curso Superior em Desenvolvimento Back-End (previsão de formatura 2025).
+Atualmente busco um ferramental mais versátil através do [Curso de Programação Web Front-End](https://www.campinhodigital.org/programa%C3%A7%C3%A3o-web-front-end) da [Campinho Digital](https://www.campinhodigital.org/) e [Curso Superior em Desenvolvimento Back-End](https://www.cruzeirodosulvirtual.com.br/graduacao/desenvolvimento-back-end/) na [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br) - EAD (previsão de formatura 2025).
 
 ---
 
