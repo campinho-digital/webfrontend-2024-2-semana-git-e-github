@@ -3,4 +3,5 @@ Responsabilidades: Criar arquivos README , subir para o Git, Ajudar os colegas d
 Contato: johon.dev@icloud.com
 GitHub: https://github.com/JohonGomes
 
-Mudança para fazer rebase
+Mudança para fazer rebase.
+Terceira mundança para fazer o rebase.
