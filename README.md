@@ -124,7 +124,7 @@ squads
 O arquivo nome_sobrenome.md deve conter as seguintes informações mínimas (Em Markdown):
 
 - Objetivo: Descreva suas responsabilidades e contribuições dentro do squad (Podem ser atruibuições fictícias).
-- Responsabilidades: Liste as principais tarefas ou áreas que você está encarregado(a).
+- Responsabilidades: Liste as principais tarefas ou áreas que você está encarregado(a)..
 - Contato: Inclua uma forma de contato, como e-mail ou outro canal interno da empresa, para facilitar a comunicação.
 - Você pode adicionar mais seções relevantes conforme necessário.
 
