@@ -1,3 +1,5 @@
+
+
  # Semana 2 Repositório Colaborativo
 ## Atividade: Colaboração no Git com Branches e Contribuições no README.md
 <img width="212" alt="Captura de Tela 2024-09-09 às 17 42 28" src="https://github.com/user-attachments/assets/ff68ffdf-1fc1-471a-baec-f4b6089081b6">
@@ -223,4 +225,3 @@ Caso você esteja enfrentando erros ao tentar fazer push, pode ser que o seu rep
 Resolução de Conflitos: Se dois ou mais contribuidores modificarem a mesma linha de código, um conflito ocorrerá. Pratique a resolução de conflitos quando fizer merge de branches.
 
 Rebase: Experimente o comando git rebase para reordenar commits antes de fazer um merge.
-
