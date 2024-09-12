@@ -2,7 +2,7 @@
 # **Projeto:** Minha Contribuição
 ### **Colaborador:** Romulo Guilherme Rosa
 #### **Posições:** Front-End e VTex Pleno | FullStack Júnior
-#### **Contatos:** [![Github](https://i.postimg.cc/xTyrnD2V/icon-github.png)](https://github.com/romulorosadev)  |  [![LinkedIn](https://i.postimg.cc/7ZmpJ3hB/icon-linkedin.png)](https://www.linkedin.com/in/romulorosadev/)  |  [![Gmail](https://i.postimg.cc/bvr4xZ2q/icon-gmail.png)](mailto:romulorosadev@gmail.com) 
+#### **Contatos:** [![Github](https://i.postimg.cc/xTyrnD2V/icon-github.png)](https://github.com/romulorosadev)   [![LinkedIn](https://i.postimg.cc/7ZmpJ3hB/icon-linkedin.png)](https://www.linkedin.com/in/romulorosadev/)   [![Gmail](https://i.postimg.cc/bvr4xZ2q/icon-gmail.png)](mailto:romulorosadev@gmail.com) 
 ---
 
 ## **Perfil**
