@@ -1,4 +1,6 @@
-![Romulo Rosa](https://thumbs2.imgbox.com/d6/28/P96vBhwt_t.png)
+[![Romulo Rosa](https://i.postimg.cc/htJ82XHM/romulo-2022-foto-curriculum-04.png)](https://postimg.cc/jDbJ5SqJ)
+
+https://www.imagemhost.com.br/image/qeUo0
 
 # **Projeto:** Minha Contribuição
 ### **Colaborador:** Romulo Guilherme Rosa
