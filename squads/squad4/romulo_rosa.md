@@ -1,4 +1,6 @@
-(https://thumbs2.imgbox.com/d6/28/P96vBhwt_t.png)
+[https://thumbs2.imgbox.com/d6/28/P96vBhwt_t.png](https://imgbox.com/BywStzT0)
+
+![Romulo Rosa](http://url/to/img.png)
 
 # **Projeto:** Minha Contribuição
 ### **Colaborador:** Romulo Guilherme Rosa
