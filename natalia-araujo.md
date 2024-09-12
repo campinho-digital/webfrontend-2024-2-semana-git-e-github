@@ -1,4 +1,4 @@
-![fOTO.png](https://i.postimg.cc/tTwDjk3G/fOTO.png)
+![Captura-de-tela](https://i.postimg.cc/rFVmCT63/Captura-de-tela-2024-05-02-224611-removebg-preview-1.png)
 
 # Natália Araújo
 
@@ -44,8 +44,10 @@
 
 ## 📫 CONTATO:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 https://www.linkedin.com/in/enfernatalia/
 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 techdev.nat@gmail.com
