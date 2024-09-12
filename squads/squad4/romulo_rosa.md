@@ -1,7 +1,5 @@
 [![Romulo Rosa](https://i.postimg.cc/htJ82XHM/romulo-2022-foto-curriculum-04.png)](https://postimg.cc/jDbJ5SqJ)
 
-https://www.imagemhost.com.br/image/qeUo0
-
 # **Projeto:** Minha Contribuição
 ### **Colaborador:** Romulo Guilherme Rosa
 #### **Posições:** Front-End e VTex Pleno | FullStack Júnior
