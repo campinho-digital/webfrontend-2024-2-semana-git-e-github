@@ -2,7 +2,7 @@
 
 # Natália Araújo
 
-## 👨‍💻 SOBRE MIM
+## 👩🏻‍💻 SOBRE MIM
 
 - 28 anos.
 
@@ -18,7 +18,7 @@
 
 - Ainda não sei ao certo a que ponto irei chegar na transição de carreira: dev front-end, analista de dados, abadonarei totalmente a enfermagem? Porém, estou muito disposta a realmente implementar a TI em minha vida, em minha carreira profissional, pois é algo que está sendo bastante prazeroso em aprender!
 
-## 💻 OBJETIVO:
+## 🎯 OBJETIVO:
 - Iniciar estudando Web Front-End.
 
 - Estudar Análise de dados.
@@ -44,10 +44,8 @@
 
 ## 📫 CONTATO:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 https://www.linkedin.com/in/enfernatalia/
 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 techdev.nat@gmail.com
