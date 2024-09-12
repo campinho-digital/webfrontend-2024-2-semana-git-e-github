@@ -1,12 +1,12 @@
-[![fOTO.png](https://i.postimg.cc/T2jTh4sw/fOTO.png)](https://postimg.cc/w3BCG0g8)
+[![fOTO.png](https://i.postimg.cc/tTwDjk3G/fOTO.png)]
 
 # Natália Araújo
 
 ## 👨‍💻 SOBRE MIM
 
-- 28 anos
+- 28 anos.
 
-- Fortaleza-CE 
+- Fortaleza-CE.
 
 - Sempre tive proximidade com a tecnologia, no entanto, em minha época de escola, a TI não foi evidenciada como uma possibilidade de carreira, o que me levou para outro rumo. 
 
@@ -25,7 +25,7 @@
 
 - Aproveitar oportunidades de novos conhecimentos e experiências.
 
-- Encontrar a área que mais me atrai dentro da TI.
+- Encontrar a área que mais me atrai na TI.
 
 - Ingressar na área da TI.
 
@@ -41,8 +41,8 @@
 - Trabalho em equipe
 
 - Gestão de problemas
-</details>
 
 ## 📫 CONTATO:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enfernatalia/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techdev.nat@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/enfernatalia/
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) techdev.nat@gmail.com
