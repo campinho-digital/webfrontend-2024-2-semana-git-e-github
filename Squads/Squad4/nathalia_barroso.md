@@ -12,7 +12,7 @@
             <img height="35" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/nathaliacbarroso">
         <img height="35" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="nathaliacbarroso.as@gmail.com">
+           <a style="margin-left: 10px;" target="_blank" href="mailto:nathaliacbarroso.as@gmail.com">
         <img height="35" src="https://img.icons8.com/doodle/2x/gmail-new.png"></a>
       </div>
 
