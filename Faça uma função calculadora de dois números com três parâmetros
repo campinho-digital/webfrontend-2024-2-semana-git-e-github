@@ -1,0 +1,27 @@
+# Faça uma função calculadora de dois números com três parâmetros
+# Autor: Julio Cesar Ferreira  
+# # 
+# # Arquivo: Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considere a seguinte definição:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+
+Caso seja inserido um número de operação que não existe, o resultado deverá ser 0.
+##############################################################################
+
+a = float(input("Primeiro número:"))
+b = float(input("Segundo número:"))
+operação = input("Digite a operação a realizar (+,-,* ou /):")
+if operação == "+":
+    resultado = a + b
+elif operação == "-":
+    resultado = a - b
+elif operação == "*":
+    resultado = a * b
+elif operação == "/":
+    resultado = a / b
+else:
+    print("Operação inválida!")
+    resultado = 0
+print("Resultado: ", resultado)
