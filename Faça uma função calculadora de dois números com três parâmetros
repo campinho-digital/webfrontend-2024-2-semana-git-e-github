@@ -25,3 +25,34 @@ else:
     print("Operação inválida!")
     resultado = 0
 print("Resultado: ", resultado)
+
+
+
+
+
+
+Outra Forma de fazer:
+def calculadora(num1, num2, operacao):
+    if operacao == 1:  # Soma
+        return num1 + num2
+    elif operacao == 2:  # Subtração
+        return num1 - num2
+    elif operacao == 3:  # Multiplicação
+        return num1 * num2
+    elif operacao == 4:  # Divisão
+        if num2 != 0:  # Verifica se o divisor não é zero
+            return num1 / num2
+        else:
+            return "Erro: Divisão por zero"
+    else:  # Operação não reconhecida
+        return 0
+
+# Exemplo de uso:
+resultado = calculadora(10, 5, 1)  # Soma: 10 + 5
+print(resultado)  # Saída: 15
+
+C
+Parâmetros : num1enum2são os números comooperacaodetermina qual o
+Operações : A foperacaopara decidir qual cá
+Divisão : H
+Retorno : Se aoperacaonão
