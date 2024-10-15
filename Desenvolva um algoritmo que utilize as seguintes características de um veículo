@@ -1,0 +1,59 @@
+Desenvolva um algoritmo que utilize as seguintes características de um veículo:
+- Quantidade de rodas;
+- Peso bruto em quilogramas;
+- Quantidade de pessoas no veículo.
+
+Com essas informações, o programa mostrará qual é a melhor categoria de habilitação para o veículo informado a partir das condições:
+R: Veículos com duas ou três rodas;
+B: Veículos com quatro rodas, que acomodam até oito pessoas e seu peso é de até 3.500 kg;
+C: Veículos com quatro rodas ou mais e com peso entre 3.500 e 6.000 kg;
+D: Veículos com quatro rodas ou mais e que acomodam mais de oito pessoas; E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
+
+
+Cada exercício da tabela em anexo tem declaração de variáveis e, na sequência, uma sentença que usa as variáveis e operadores lógicos. Determine qual é o resultado final (Verdadeiro ou Falso) de cada sentença. 
+
+
+Estrutura do Algoritmo:
+Entrada de dados: Solicitar ao usuário que informe a quantidade de rodas, o peso do veículo e a quantidade de pessoas.
+Processamento:
+Verificar a quantidade de rodas e aplicar as regras de cada categoria.
+Se o veículo tiver duas ou três rodas, a categoria é A.
+Se tiver quatro rodas, verificar o peso e a capacidade de passageiros para determinar as categorias B, C, D ou E.
+Saída: Exibir a categoria de habilitação correspondente.
+Algoritmo em Pseudocódigo:
+INÍCIO
+    // Entrada de dados
+    ESCREVER "Digite a quantidade de rodas: "
+    LER quantidade_rodas
+
+
+    ESCREVER "Digite o peso do veículo (em kg): "
+    LER peso
+
+
+    ESCREVER "Digite a quantidade de pessoas: "
+    LER pessoas
+
+
+    // Processamento
+    SE quantidade_rodas = 2 OU quantidade_rodas = 3 ENTÃO
+        categoria <- "A"
+    SENÃO SE quantidade_rodas >= 4 ENTÃO
+        SE peso <= 3500 E pessoas <= 8 ENTÃO
+            categoria <- "B"
+        SENÃO SE peso > 3500 E peso <= 6000 ENTÃO
+            categoria <- "C"
+        SENÃO SE pessoas > 8 ENTÃO
+            categoria <- "D"
+        SENÃO
+            categoria <- "E"
+        FIM_SE
+    FIM_SE
+
+
+    // Saída
+    ESCREVER "A categoria de habilitação necessária é: ", categoria
+
+
+FIM
+
