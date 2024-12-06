@@ -48,6 +48,7 @@ No terminal, rode o comando abaixo para clonar o repositório:
 
 ~~~javascript
 git clone <URL_DO_REPOSITORIO>
+
 ~~~
 
 Navegue até a pasta do repositório:

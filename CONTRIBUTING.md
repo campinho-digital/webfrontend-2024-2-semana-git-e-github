@@ -7,3 +7,4 @@ Para contribuir neste projeto, você **deve usar SSH** para clonar e fazer push 
 3. Clonar o repositório via SSH:
    ```bash
    git clone git@github.com:usuario/repositorio.git
+
