@@ -1,0 +1,40 @@
+CREATE TABLE Usuarios (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100),
+    email VARCHAR(100) UNIQUE
+);
+
+CREATE TABLE Credenciais (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    usuario_id INT,
+    senha VARCHAR(255),
+    FOREIGN KEY (usuario_id) REFERENCES Usuarios(id)
+);
+
+CREATE TABLE Sessoes (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    usuario_id INT,
+    data_login DATETIME,
+    FOREIGN KEY (usuario_id) REFERENCES Usuarios(id)
+);
+
+INSERT INTO Usuarios (nome, email) VALUES
+('João Silva', 'joao.silva@email.com'),
+('Maria Oliveira', 'maria.oliveira@email.com');
+
+INSERT INTO Credenciais (usuario_id, senha) VALUES
+(1, 'senha123'),
+(2, 'senha456');
+
+INSERT INTO Sessoes (usuario_id, data_login) VALUES
+(1, '2025-01-20 08:00:00'),
+(2, '2025-01-20 09:00:00');
+
+SELECT Usuarios.nome, MAX(Sessoes.data_login) AS ultimo_login
+FROM Usuarios
+JOIN Sessoes ON Usuarios.id = Sessoes.usuario_id
+GROUP BY Usuarios.nome;
+
+SELECT Usuarios.nome, Usuarios.email, Credenciais.senha
+FROM Usuarios
+JOIN Credenciais ON Usuarios.id = Credenciais.usuario_id;
